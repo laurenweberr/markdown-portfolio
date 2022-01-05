@@ -1,2 +1,2 @@
-https://user-images.githubusercontent.com/97114139/148280316-19ced294-fff0-4daa-b0e4-396dcb0e6212.png
-this is a photograph of a dog
+![C3138B2D-6934-4520-BE84-8A7486590CDA_1_102_o](https://user-images.githubusercontent.com/97114139/148280623-62445e21-11ee-452a-88bc-2d8d01b6b796.jpeg)
+
