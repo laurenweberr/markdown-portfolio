@@ -1,4 +1,4 @@
-dogs
-food
-sunshine
-ocean
+- dogs
+- food
+- sunshine
+- ocean
